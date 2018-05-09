@@ -43,10 +43,6 @@
  */
 
 
-/*              이슈        */
-//이슈가 1 3명 입력 받아야하는데 넘치게도 가능 //이건 배열 오류를 뱉에서 넘어간다
-// 이슈 2 전체 출력이 안됨
-// 문자열 비교가 제대로 안됨
 
 import java.io.IOException;
 import java.util.Scanner;
